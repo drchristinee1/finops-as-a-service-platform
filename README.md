@@ -105,7 +105,25 @@ By treating FinOps as a product, organizations can:
 - Improve financial outcomes through continuous optimization
 
 ---
+## Repository Structure
 
+- `docs/` → FinOps operating model, service portal, and governance design  
+- `dashboards/` → KPI definitions and metric standards  
+- `automation/` → Self-service backlog and workflow design  
+- `templates/` → Reusable stakeholder communication templates  
+- `scripts/` → Sample scripts supporting FinOps analysis and automation  
+
+---
+
+## How This Can Be Used
+
+This repository demonstrates how FinOps can be designed and operated as a scalable internal service.
+
+It can be used by organizations to:
+- Design FinOps operating models
+- Build self-service cost platforms
+- Standardize cost reporting and workflows
+- Enable engineering teams with actionable cost insights
 ## Author
 
 Dr. Christine E. Oji  
