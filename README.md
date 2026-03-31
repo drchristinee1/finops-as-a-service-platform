@@ -2,7 +2,7 @@
 # FinOps as a Service Platform
 
 ## Overview
-
+This repository demonstrates how FinOps can be designed and operated as a scalable internal platform aligned to modern cloud environments.
 Most FinOps teams focus on reporting cloud costs.
 
 This platform reimagines FinOps as a **product and service**, enabling engineering, finance, and product teams to:
